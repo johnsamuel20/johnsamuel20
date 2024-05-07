@@ -1,14 +1,14 @@
-### Hi there! 👋 <!-- font size: 18px -->
+### Hi there! 👋 <!-- font size: 25px -->
 
-I'm John Samuel, I'm a Software Developer 🤓. Welcome to my GitHub profile! <!-- font size: 16px -->
+I'm John Samuel, I'm a Software Developer 🤓. Welcome to my GitHub profile! <!-- font size: 20px -->
 
 ---  
 
-### About me 📌 <!-- font size: 18px -->
+### About me 📌 <!-- font size: 23px -->
 
 I'm a passionate software engineer specializing in full-stack development using the MERN stack. While my background in mechanical engineering might seem unconventional, it's actually a secret weapon! It's instilled in me a strong foundation in problem-solving, analytical thinking, and a meticulous approach to building robust systems.  <!-- font size: 16px -->
 
-This unique blend of skills allows me to: <!-- font size: 16px -->
+This unique blend of skills allows me to: <!-- font size: 20px -->
 
 * Craft elegant and efficient code with a keen eye for detail.
 * Bridge the gap between design and development, fostering seamless user experiences.
@@ -18,9 +18,9 @@ I'm constantly seeking opportunities to learn, grow, and collaborate with talent
 
 ---  
 
-### Let's Connect 📬  <!-- font size: 18px -->
+### Let's Connect 📬  <!-- font size: 23px -->
 
-Feel free to reach out for collaborations or just a chat! <!-- font size: 16px -->
+Feel free to reach out for collaborations or just a chat! <!-- font size: 20px -->
 * [Email](john.saad.samuel@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/john-samuel-7669a5244/)
 * [Portfolio](https://john-portfolio-vh5e.onrender.com/)
