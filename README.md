@@ -2,7 +2,7 @@
 
 I'm John Samuel, I'm a Software Developer. Welcome to my GitHub profile! (font size: 16px)
 
----  **(divider)**
+---  
 
 ### About me  (font size: 18px)
 
@@ -16,7 +16,7 @@ This unique blend of skills allows me to: (font size: 16px)
 
 I'm constantly seeking opportunities to learn, grow, and collaborate with talented individuals. Feel free to browse my repositories and reach out if you have any projects in mind! (font size: 16px)
 
----  **(divider)**
+---  
 
 ### Let's Connect  (font size: 18px)
 
